@@ -11,5 +11,3 @@
 9. git push origin <your_name>
 10. 在自己的Github仓库中，点击New Pull Request，发送Pull Request到主仓库的dev分支
 11. 等待review，最终被合并
-
-
